@@ -54,4 +54,5 @@ CATKIN_IGNORE
 .vscode/
 
 # ignore yolo
+runs/
 *.pt
